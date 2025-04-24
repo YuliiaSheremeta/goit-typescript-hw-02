@@ -1,4 +1,4 @@
-import { useEffect, useState, CSSProperties  } from 'react'
+import { useEffect, useState } from 'react'
 import toast, { Toaster } from 'react-hot-toast';
 
 import SearchBox from '../SearchBox/SearchBox';

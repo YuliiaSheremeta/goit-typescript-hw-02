@@ -1,4 +1,3 @@
-import React from 'react';
 import css from './ImageModal.module.css'
 import Modal from 'react-modal';
 import type { ImageItem } from '../App/App';
